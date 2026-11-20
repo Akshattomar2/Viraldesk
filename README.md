@@ -2,7 +2,7 @@
 
 **ViralDesk** is a self-hosted social media management workspace for planning, creating, scheduling, and managing content across connected social channels.
 
-> **Open-source attribution:** ViralDesk is a branded derivative of [Postiz](https://github.com/gitroomhq/postiz), an open-source social media management platform. The upstream project and its contributors retain their original copyrights. This repository preserves the upstream AGPL-3.0 license and applicable notices. ViralDesk's branding does not imply endorsement by the Postiz maintainers.
+
 
 ## Highlights
 
@@ -32,15 +32,3 @@ For production, configure secrets through your deployment environment. Do not co
 - Publishing support is subject to each platform's API availability and policies.
 - Review the environment variables in `.env.example` before deployment.
 - Keep database backups and secure uploaded media storage in production.
-
-## License
-
-This project is distributed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See [`LICENSE`](./LICENSE) for the complete license text. Preserve copyright, attribution, and license notices when modifying or redistributing the software.
-
-## Upstream project
-
-- Original project: <https://github.com/gitroomhq/postiz>
-- Upstream documentation: <https://docs.postiz.com/>
-- Upstream license: AGPL-3.0
-
-ViralDesk's product name and branding are a downstream customization; they do not change the license or ownership of the upstream code.
